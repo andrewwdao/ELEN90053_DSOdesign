@@ -1,3 +1,28 @@
+
+# ----------------- Altium -------------------
+# Previews Folders
+**/__Previews/
+
+# History Folders
+**/History/*
+
+# Project Logs
+Project Logs*/
+
+# Project Outputs
+Project Outputs*/
+
+# Auto-conversion notices
+*.PcbDoc.htm
+
+# Access lock file for dbLib sources
+**/*.ldb
+
+##
+## Get latest from https://github.com/github/gitignore/
+
+## ---------------------------- C ----------------------------
+
 # Prerequisites
 *.d
 
@@ -50,3 +75,40 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+##
+## Get latest from https://github.com/github/gitignore/
+
+## ---------------------------- C++ ----------------------------
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
