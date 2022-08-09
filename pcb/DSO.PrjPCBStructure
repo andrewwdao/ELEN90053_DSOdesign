@@ -1,0 +1,11 @@
+Record=TopLevelDocument|FileName=DSO_Counters.SchDoc|SheetNumber=5
+Record=SheetSymbol|SourceDocument=DSO_Counters.SchDoc|Designator=U_DSO_CPLD|SchDesignator=U_DSO_CPLD|FileName=DSO_CPLD.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=DSO_CPLD.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=DSO_Counters.SchDoc|FileName=DSO_ADC.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=DSO_Counters.SchDoc|FileName=DSO_Clock.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=DSO_Counters.SchDoc|FileName=DSO_Control.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=DSO_Counters.SchDoc|FileName=DSO_Front.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=DSO_Counters.SchDoc|FileName=DSO_IO.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=DSO_Counters.SchDoc|FileName=DSO_Power.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=DSO_Counters.SchDoc|FileName=DSO_RAM.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=DSO_Counters.SchDoc|FileName=DSO_Top.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=DSO_Counters.SchDoc|FileName=DSO_Trig.SchDoc|SheetNumber=1
