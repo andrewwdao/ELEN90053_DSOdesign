@@ -253,7 +253,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FWIXOOPN
 
 [Document13]
-DocumentPath=DSO.PcbLib
+DocumentPath=lib\DSO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -267,10 +267,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KTIORKUT
+DocumentUniqueId=
 
 [Document14]
-DocumentPath=DSO.SCHLIB
+DocumentPath=lib\DSO.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
